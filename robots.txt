@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kunalvarshney04.github.io/sitemap.xml
+Host: https://kunalvarshney04.github.io
